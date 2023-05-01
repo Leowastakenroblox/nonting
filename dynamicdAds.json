@@ -1,0 +1,19 @@
+{
+    "login": [
+        {
+            "text": "456RP",
+            "logoLightMode": "img/zap256_black.png",
+            "logoDarkMode": "img/zap256_white.png",
+            "link": "http://zap-hosting.com/txAdmin3"
+        }
+    ],
+    "main": [
+        {
+            "text": ""456RP",
+            "logoLightMode": "img/zap256_black.png",
+            "logoDarkMode": "img/zap256_white.png",
+            "linkDesktop": "http://456rp.tebex.io/",
+            "linkMobile": "http://456rp.tebex.io/"
+        }
+    ]
+}
